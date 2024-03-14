@@ -6,7 +6,7 @@ This playbook demonstrates how to simulate an Out of Memory issue (OOMKilled err
 
 - Any flavor of Kubernetes Cluster 
 - `kubectl` command line utility
-- VS Code Editor configured with Ansible Lightspeed powered by WCA (Links provided in [References](https://github.com/dimallya/wca-4-oom-fix/edit/main/README.md#references) section)
+- VS Code Editor configured with Ansible Lightspeed powered by WCA (Links provided in [References](https://github.com/dimallya/wca-4-oom-fix/tree/main?tab=readme-ov-file#references) section)
 
 ## Steps
 
