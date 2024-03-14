@@ -1,6 +1,6 @@
 # wca-4-oom-fix
 
-This playbook demonstrates how to simulate an Out of Memory issue (OOMKilled error) for a pod and fixing the same with the help of an Ansible Playbook which is generated using IBM Watsonx Code Assistant (WCA) for Ansible Lightspeed. 
+This repository demonstrates how to simulate an Out of Memory issue (OOMKilled error) for a pod and fixing the same with the help of an Ansible Playbook which is generated using IBM Watsonx Code Assistant (WCA) for Ansible Lightspeed. 
 
 ## Prequisites
 
