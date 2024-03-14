@@ -1,0 +1,26 @@
+---
+- name: Scale up resources 
+  hosts: localhost
+  vars:
+    namespace: robot-shop
+    command: 
+      - "stress"
+    args: ["--vm", "1", "--vm-bytes", "150M", "--vm-hang", "1"]
+    label: "app: robot-shop"
+    name: app-review
+    image: polinux/stress
+
+  tasks:  
+    # - name: Get the status of app-review pod in robot-shop namespace and register output in var pod_info
+    
+    # - name: Display the pod_info
+  
+    # - name: Delete pod app-review in robot-shop namespace 
+  
+    # - name: Wait for 60 sec
+   
+    # - name: Create app-review pod using a container from image var with memory resource request 150Mi and limit as 200Mi and var command and args
+
+    
+    
+      
