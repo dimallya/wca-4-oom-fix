@@ -36,3 +36,4 @@ Memory request and limit for the container in this pod are 50Mi and 100Mi respec
 1. Installing the Ansible VS Code extension: https://docs.ai.ansible.redhat.com/vscode_guide/installing_vs/
 2. Using the Ansible VS Code extension: https://docs.ai.ansible.redhat.com/vscode_guide/using_vs/
 3. Configuring RH Ansible Lightspeed with WCA: [Link](https://access.redhat.com/documentation/en-us/red_hat_ansible_lightspeed_with_ibm_watsonx_code_assistant/2.x_latest/html/red_hat_ansible_lightspeed_with_ibm_watsonx_code_assistant_user_guide/configure-code-assistant_lightspeed-user-guide#doc-wrapper)
+4. Ansible K8s module documentation: https://docs.ansible.com/ansible/latest/collections/kubernetes/core/k8s_module.html
